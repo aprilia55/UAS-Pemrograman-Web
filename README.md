@@ -2,9 +2,13 @@
 ### Aplikasi Web Resep Masakan Berbasis PHP & MySQL
 
 **Nama Mahasiswa** : Alfarizki Aprilia Putri
+
 **NIM**            : 312410455  
+
 **Kelas**          : TI.24.A5
-**Mata Kuliah**    : Pemrograman Web  
+
+**Mata Kuliah**    : Pemrograman Web 
+
 **Jenis Tugas**    : Ujian Akhir Semester (UAS)
 
 ---
